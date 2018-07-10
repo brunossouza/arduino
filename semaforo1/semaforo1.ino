@@ -1,7 +1,7 @@
 #define RED 10
 #define YELLOW 11
 #define GREEN 12
-#define TMPESPERAR 1
+#define TMPESPERAR 1 //tempo em segundos para esperar entre troca de cor
 
 //https://www.arduinoecia.com.br/2013/07/display-7-segmentos.html
 

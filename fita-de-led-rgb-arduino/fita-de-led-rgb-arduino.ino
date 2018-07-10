@@ -15,6 +15,8 @@
  * Created on Hiperload.com - Simple share.
  */
 
+ //Estudando codigo
+
 #define RED 5 // pino PWM 5 para a cor vermelha
 #define GREEN 9 // pino PWM 9 para a cor verde
 #define BLUE 6 // pino PWM 6 para a cor azul
